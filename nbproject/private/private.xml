@@ -3,8 +3,17 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/var/www/html/Teste/cadastro.php</file>
-            <file>file:/var/www/html/Teste/Cadastrando.html</file>
+            <file>file:/var/www/html/Teste/str_split.php</file>
+            <file>file:/var/www/html/Teste/chr.php</file>
+            <file>file:/var/www/html/Teste/ord.php</file>
+            <file>file:/var/www/html/Teste/wordwrap.php</file>
+            <file>file:/var/www/html/Teste/explode.php</file>
+            <file>file:/var/www/html/Teste/printf.php</file>
+            <file>file:/var/www/html/Teste/trim.php</file>
+            <file>file:/var/www/html/Teste/strlen.php</file>
+            <file>file:/var/www/html/Teste/print_r.php</file>
+            <file>file:/var/www/html/Teste/str_word-count.php</file>
+            <file>file:/var/www/html/Teste/implode.php</file>
         </group>
     </open-files>
 </project-private>
